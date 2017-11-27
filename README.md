@@ -17,3 +17,6 @@
 
 4. Access Application 
   Exec: kubectl get service web  --watch
+
+
+Note: Installed docker-compose CLI, kubectl CLI and kompose CLI before run these commands
