@@ -24,7 +24,7 @@ namespace SampleCoreApp3
         }
         public void ConfigureServices(IServiceCollection services)
         {
-            var connection = @"Server=(localdb)\mssqllocaldb;Database=CoreDemoDb;Trusted_Connection=True;MultipleActiveResultSets=true";
+            var connection = @"Server=db;Database=master;User=sa;Password=Password01;";
 
             // This line uses 'UseSqlServer' in the 'options' parameter
             // with the connection string defined above.
