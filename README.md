@@ -1,4 +1,4 @@
-# SampleCoreApp3 is multi-containers application using aspnetcore image and mssql-linux image
+# SampleCoreApp3 is multi-containers application using aspnetcore image and mssql-server-linux image
 # Deploy on Kubernetes (Azure Container Service)
 
 1. Build multi-containers application on local
